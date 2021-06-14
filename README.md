@@ -13,7 +13,7 @@
 - Bootstrapped EBU (The basic algorithm of BEBU-UCB, BEBU-IDS and OB2I)
 - [Bootstrapped DQN](https://arxiv.org/abs/1602.04621)
 - [EBU](https://arxiv.org/abs/1805.12375) 
-(we provide a clean implementation at https://github.com/review-anon/EBU)
+(we provide a clean implementation at https://github.com/Baichenjia/EBU)
 
 ### Action Selection
 
